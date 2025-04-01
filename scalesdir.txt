@@ -51,7 +51,7 @@ Filename                     Size  Description
 13-19.scl                      13  13 out of 19-tET, Mandelbaum
 13-22.scl                      13  13 out of 22-tET, generator = 5
 13-30t.scl                     13  Tritave with 13/10 generator, 91/90 tempered out
-13-31.scl                      13  13 out of 31-tET Hemiwürschmidt[13]
+13-31.scl                      13  13 out of 31-tET HemiwÃ¼rschmidt[13]
 14-19.scl                      14  14 out of 19-tET, Mandelbaum
 14-26.scl                      14  Two interlaced diatonic in 26-tET, tetrachordal. Paul Erlich (1996)
 14-26a.scl                     14  Two interlaced diatonic in 26-tET, maximally even. Paul Erlich (1996)
@@ -61,7 +61,7 @@ Filename                     Size  Description
 16-145.scl                     16  Magic[16] in 145-tET
 16-31.scl                      16  Armodue semi-equalizzato
 17-31.scl                      17  17 out of 31, with split C#/Db, D#/Eb, F#/Gb, G#/Ab and A#/Bb
-17-53.scl                      17  17 out of 53-tET, Arabic Pythagorean scale, Safiyuddîn Al-Urmawî (Safi al-Din)
+17-53.scl                      17  17 out of 53-tET, Arabic Pythagorean scale, SafiyuddÃ®n Al-UrmawÃ® (Safi al-Din)
 17-note_hemifamity_sns.scl     17  17-note Hemifamity tempered Step-Nested Scale
 17wtn.scl                      17  Alternating 14-tET and 3rd root of 9/8, well tempered nonet
 19-31.scl                      19  19 out of 31-tET, meantone Gb-B#
@@ -149,7 +149,7 @@ al-hwarizmi.scl                 6  Al-Hwarizmi's tetrachord division
 al-kindi.scl                    6  Al-Kindi's tetrachord division
 al-kindi2.scl                  14  Arabic mode by al-Kindi
 al-mausili.scl                 11  Arabic mode by Ishaq al-Mausili (? - 850 AD)
-alembert-rousseau.scl          12  d'Alembert and Rousseau tempérament ordinaire (1752/1767)
+alembert-rousseau.scl          12  d'Alembert and Rousseau tempÃ©rament ordinaire (1752/1767)
 alembert-rousseau2.scl         12  d'Alembert and Rousseau (1752-1767) different interpretation
 alembert.scl                   12  Jean-Le Rond d'Alembert modified meantone (1752)
 alembert1.scl                  12  Jean-Baptiste le Rond d'Alembert, modified meantone tuning (1752). See Devie, 1990, p. 102
@@ -162,7 +162,7 @@ alves_pelog.scl                 7  Bill Alves JI Pelog, 1/1 vol.9 no.4, 1997. 1/
 alves_slendro.scl               5  Bill Alves, slendro for Gender Barung, 1/1 vol.9 no.4, 1997. 1/1=282.86 Hz
 amity.scl                      39  Amity temperament, g=339.508826, 5-limit
 amity53pure.scl                53  Amity[53] in pure-fifths tuning
-ammerbach.scl                  12  Elias Mikolaus Ammerbach (1571), from Ratte: Temperierungspraktiken im süddeutschen Orgelbau p. 412
+ammerbach.scl                  12  Elias Mikolaus Ammerbach (1571), from Ratte: Temperierungspraktiken im sÃ¼ddeutschen Orgelbau p. 412
 ammerbach1.scl                 12  Elias Mikolaus Ammerbach (1571, 1583) interpretation 1, Ratte, 1991
 ammerbach2.scl                 12  Elias Mikolaus Ammerbach (1571, 1583) interpretation 2, Ratte, 1991
 amogussussybaka.scl             6  7-limit scale to play the Among Us theme
@@ -345,14 +345,14 @@ bassano.scl                    12  Anonymous Italian modified meantone (c.1780).
 battaglia_16.scl               16  Mike Battaglia 5-limit 16-tone scale
 baumeister.scl                 12  In 1988 observed temperament of organ in Maihingen by Johann Martin Baumeister (1737)
 beardsley_8.scl                 8  David Beardsley's scale used in "Sonic Bloom" (1999)
-bedos.scl                      12  Temperament of Dom François Bédos de Celles (1770), after M. Tessmer
+bedos.scl                      12  Temperament of Dom FranÃ§ois BÃ©dos de Celles (1770), after M. Tessmer
 belet.scl                      13  Belet, Brian 1992  Proceedings of the ICMC pp.158-161.
 bellingwolde.scl               12  Current 1/6-P. comma mod.mean of Freytag organ in Bellingwolde. Ortgies,2002
 bellingwolde_org.scl           12  Original tuning of the Freytag organ in Bellingwolde
-bell_mt_partials.scl            8  Partials of major third bell. 1/1=523.5677 Hz, hum note=-1200.42 c. André Lehr, 2006.
+bell_mt_partials.scl            8  Partials of major third bell. 1/1=523.5677 Hz, hum note=-1200.42 c. AndrÃ© Lehr, 2006.
 belobog31.scl                  31  Belobog[31] hobbit in 626-tET, commas 3136/3125, 441/440
 bemetzrieder2.scl              12  Anton Bemetzrieder temperament nr. 2 (1808), equal to Marpurg T11, Heinrich Laag's temperament and Vallotti in F#
-bendeler-b.scl                 12  Die Brüche nach Bendeler, Jerzy Erdmann: Ein Rechenmodell für historische Mensurationsmethoden, p. 342
+bendeler-b.scl                 12  Die BrÃ¼che nach Bendeler, Jerzy Erdmann: Ein Rechenmodell fÃ¼r historische Mensurationsmethoden, p. 342
 bendeler.scl                   12  J. Ph. Bendeler well temperament
 bendeler1.scl                  12  Bendeler I temperament (c.1690), three 1/3P comma tempered fifths
 bendeler2.scl                  12  Bendeler II temperament (c.1690), three 1/3P comma tempered fifths
@@ -360,10 +360,10 @@ bendeler3.scl                  12  Bendeler III temperament (c.1690), four 1/4P 
 bermudo-v.scl                  12  Bermudo's vihuela temperament, 3 1/6P, 1 1/2P comma
 bermudo.scl                    12  Temperament of Fr. Juan Bermudo (1555)
 bermudo2.scl                   12  Temperament of Fr. Juan Bermudo, interpr. of Franz Josef Ratte: Die Temperatur der Clavierinstrumente, p. 227
-bertier.scl                    12  Jérôme Bertier, elliptical temperament (2014)
-bertier2.scl                   12  Jérôme Bertier, elliptical temperament (2015)
+bertier.scl                    12  JÃ©rÃ´me Bertier, elliptical temperament (2014)
+bertier2.scl                   12  JÃ©rÃ´me Bertier, elliptical temperament (2015)
 betacub.scl                    46  inverted 3x3x3 9-limit quintad cube beta (5120/5103) synch tempered
-bethizy.scl                    12  Jean Laurent de Béthizy temperament ordinaire (1754). See Pierre-Yves Asselin: Musique et temperament
+bethizy.scl                    12  Jean Laurent de BÃ©thizy temperament ordinaire (1754). See Pierre-Yves Asselin: Musique et temperament
 biezen.scl                     12  Jan van Biezen modified meantone (1974)
 biezen2.scl                    12  Jan van Biezen 2, also Siracusa (early 17th cent.), modified 1/4 comma MT. Also Henri Legros (1977)
 biezen3.scl                    12  Jan van Biezen 3 (2004) (also called Van Biezen I)
@@ -379,7 +379,7 @@ bihexanymyna.scl               12  Myna tempered bihexany, 89-tET
 billeter.scl                   12  Organ well temperament of Otto Bernhard Billeter
 billeter2.scl                  12  Bernhard Billeter's Bach temperament (1977/79), 1/12 and 7/24 Pyth. comma
 billeter3.scl                  12  Organ well temperament of Otto Bernhard Billeter (2010)
-billeter4.scl                  12  Bernhard Billeter Frühromantik (2010)
+billeter4.scl                  12  Bernhard Billeter FrÃ¼hromantik (2010)
 bimarveldenewoo.scl            24  bimarveldene = genus(27*25*11) in [10/3 7/2 11] marvel tuning
 blackbeat15.scl                15  Blackwood[15] with brats of -1
 blackchrome2.scl               10  Second 25/24&256/245 scale
@@ -489,7 +489,7 @@ bremmer_ebvt2.scl              12  Bill Bremmer EBVT II temperament (2011)
 bremmer_ebvt3.scl              12  Bill Bremmer EBVT III temperament (2011)
 broadwood.scl                  12  Broadwood's Best (Ellis tuner number 4), Victorian (1885)
 broadwood2.scl                 12  Broadwood's Usual (Ellis tuner number 2), Victorian (1885)
-broadwood3.scl                 12  John Broadwood´s 1832 unequal temperament compiled by A.Sparschuh, a=403.0443
+broadwood3.scl                 12  John BroadwoodÂ´s 1832 unequal temperament compiled by A.Sparschuh, a=403.0443
 broeckaert-pbp.scl             12  Johan Broeckaert-Devriendt, PBP temperament (2007). Equal PBP for C-E and G-B
 broekaert1.scl                 12  Johan Broekaert, low sum beating equal beating temperament (2021), 1/1=F
 broekaert2.scl                 12  Johan Broekaert, equal beating Bach temperament, 3 just fifths (2021), 1/1=F
@@ -498,17 +498,17 @@ bruder-billeter.scl            12  Ignaz Bruder organ temperament (1829) accordi
 bruder-bormann.scl             12  Ignaz Bruder organ temperament (1829) according to Karl Bormann (1968)
 bruder-vier.scl                12  Ignaz Bruder organ temperament (1829) according to P. Vier
 bruder.scl                     12  Ignaz Bruder organ temperament (1829) according to F.J. Ratte, p. 406
-bruder1-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 1 (1982)
-bruder2-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 2 (1982)
-bruder3-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 3 (1982)
-bruder4-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 4 (1982)
-bruder5-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 5 (1982)
-bruder6-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 6 (1982)
-bruder7-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 7 (1982)
-bruder8-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to Jürgen Kühl 8 (1982)
+bruder1-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 1 (1982)
+bruder2-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 2 (1982)
+bruder3-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 3 (1982)
+bruder4-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 4 (1982)
+bruder5-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 5 (1982)
+bruder6-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 6 (1982)
+bruder7-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 7 (1982)
+bruder8-kuhl.scl               12  Ignaz Bruder organ temperament (1829) according to JÃ¼rgen KÃ¼hl 8 (1982)
 bug-pelog.scl                   7  Pelog-like subset of bug[9] and superpelog[9], g=260.256797
 bugblock19.scl                 19  Bug (<<2 3 0||) and <<5 2 -15|| <19 30 45| weak Fokker block: generators -9 to 9
-burma3.scl                      7  Burmese scale, von Hornbostel: Über ein akustisches Kriterium.., 1911, p.613. 1/1=336 Hz
+burma3.scl                      7  Burmese scale, von Hornbostel: Ãœber ein akustisches Kriterium.., 1911, p.613. 1/1=336 Hz
 burt1.scl                      12  W. Burt's 13diatsub #1
 burt10.scl                     12  W. Burt's 19enhsub #10
 burt11.scl                     12  W. Burt's 19enhharm #11
@@ -601,7 +601,7 @@ cet100.scl                     28  28th root of 5
 cet100a.scl                    12  12-tET 5-limit TOP tuning
 cet100b.scl                    12  12-tET 5-limit TOP-RMS tuning
 cet100c.scl                    12  step is 6 ^ 1/pi^3
-cet104.scl                     23  23rd root of 4, Tútim Dennsuul
+cet104.scl                     23  23rd root of 4, TÃºtim Dennsuul
 cet104a.scl                    38  38th root of 10
 cet105.scl                     13  13th root of 11/5, has very good 6/5 and 13/8
 cet105a.scl                    18  18th root of 3
@@ -675,7 +675,7 @@ cet233.scl                     21  21st root of 17, McLaren 'Microtonal Music', 
 cet25.scl                      48  28th root of 3/2
 cet258.scl                     12  12th root of 6, Moreno's C-12
 cet29.scl                      95  95th root of 5
-cet33.scl                      25  25th root of phi, Walter O´Connell (1993)
+cet33.scl                      25  25th root of phi, Walter OÂ´Connell (1993)
 cet33a.scl                     57  57th root of 3
 cet34.scl                      55  55th root of 3
 cet35.scl                      45  45th root of 5/2, Caleb Morgan (2010)
@@ -695,7 +695,7 @@ cet44a.scl                     91  91th root of 10, Jim Kukula
 cet44b.scl                     16  16th root of 3/2
 cet45.scl                      11  11th root of 4/3
 cet45a.scl                     13  13th root of 7/5, X.J. Scott
-cet46.scl                      18  18th root of phi, Walter O´Connell (1993)
+cet46.scl                      18  18th root of phi, Walter OÂ´Connell (1993)
 cet48.scl                      30  30th root of 7/3
 cet49.scl                      39  39th root of 3, Triple Bohlen-Pierce, good 3.5.7.11.13 system
 cet50.scl                      24  14th root of 3/2, stretched 24-tET
@@ -804,7 +804,7 @@ chimes.scl                      3  Heavenly Chimes
 chimes_peck.scl                 8  Kris Peck, 9-tone windchime tuning. TL 7-3-2001
 chin_12.scl                    12  Chinese scale, 4th cent.
 chin_5.scl                      5  Chinese pentatonic from Zhou period
-chin_60.scl                    60  Chinese scale of fifths (the 60 lü)
+chin_60.scl                    60  Chinese scale of fifths (the 60 lÃ¼)
 chin_7.scl                      7  Chinese heptatonic scale and tritriadic of 64:81:96 triad
 chin_bianzhong.scl             12  Pitches of Bianzhong bells (Xinyang). 1/1=b, Liang Mingyue, 1975.
 chin_bianzhong2a.scl           12  A-tones (GU) of 13 Xinyang bells (Ma Cheng-Yuan) 1/1=d#=619 Hz
@@ -817,23 +817,23 @@ chin_di.scl                     6  Chinese di scale
 chin_di2.scl                    7  Observed tuning from Chinese flute dizi, Helmholtz/Ellis p. 518, nr.103
 chin_huang.scl                  6  Huang Zhong qin tuning
 chin_liu-an.scl                11  Scale of Liu An, in: "Huai Nan Tzu", c.122 BC, 1st known corr. to Pyth. scale
-chin_lu.scl                    12  Chinese Lü scale by Huai Nan zi, Han era. Père Amiot 1780, Kurt Reinhard
-chin_lu2.scl                   12  Chinese Lü (Lushi chunqiu, by Lu Buwei). Mingyue: Music of the billion, p.67
-chin_lu3.scl                   12  Chinese Lü scale by Ho Ch'êng-T'ien, reported in Sung Shu (500 AD)
-chin_lu3a.scl                  12  Chinese Lü scale by Ho Ch'êng-T'ien, calc. basis is "big number" 177147
-chin_lu4.scl                   12  Chinese Lü "749-Temperament"
-chin_lu5.scl                   12  Chinese Lü scale by Ch'ien Lo-Chih, c.450 AD Pyth.steps 0 154 255 103 204 etc.
+chin_lu.scl                    12  Chinese LÃ¼ scale by Huai Nan zi, Han era. PÃ¨re Amiot 1780, Kurt Reinhard
+chin_lu2.scl                   12  Chinese LÃ¼ (Lushi chunqiu, by Lu Buwei). Mingyue: Music of the billion, p.67
+chin_lu3.scl                   12  Chinese LÃ¼ scale by Ho Ch'Ãªng-T'ien, reported in Sung Shu (500 AD)
+chin_lu3a.scl                  12  Chinese LÃ¼ scale by Ho Ch'Ãªng-T'ien, calc. basis is "big number" 177147
+chin_lu4.scl                   12  Chinese LÃ¼ "749-Temperament"
+chin_lu5.scl                   12  Chinese LÃ¼ scale by Ch'ien Lo-Chih, c.450 AD Pyth.steps 0 154 255 103 204 etc.
 chin_lusheng.scl                5  Observed tuning of a small Lusheng, 1/1=d, OdC '97
 chin_mannen.scl                 7  Observed scale from song Mannen-fon, B.I. Gilman, On Some Psychological Aspects of the Chinese Musical System, 1892
 chin_pan.scl                   23  Pan Huai-su pure Pythagorean system, in: Sin-Yan Shen, 1991
 chin_pipa.scl                   5  Observed tuning from Chinese balloon lute p'i-p'a, Helmholtz/Ellis p. 518, nr.109
 chin_sheng.scl                  7  Observed tuning from Chinese sheng or mouth organ, Helmholtz/Ellis p. 518, nr.105
-chin_shierlu.scl               12  Old Chinese Lü scale, from http://en.wikipedia.org/wiki/Shi_Er_L%C3%BC
+chin_shierlu.scl               12  Old Chinese LÃ¼ scale, from http://en.wikipedia.org/wiki/Shi_Er_L%C3%BC
 chin_sientsu.scl                5  Observed tuning from Chinese tamboura sienzi, Helmholtz/Ellis p. 518, nr.108
 chin_sona.scl                   7  Observed tuning from Chinese oboe (so-na), Helmholtz/Ellis p. 518, nr.104
 chin_wang-po.scl                7  Scale of Wang Po, 958 AD. H. Pischner: Musik in China, Berlin, 1955, p.20
 chin_yangqin.scl                7  Observed tuning from Chinese dulcimer yangqin, Helmholtz/Ellis p. 518, nr.107
-chin_yunlo.scl                  7  Observed tuning from Chinese gong-chime (yün-lo), Helmholtz/Ellis p. 518, nr.106
+chin_yunlo.scl                  7  Observed tuning from Chinese gong-chime (yÃ¼n-lo), Helmholtz/Ellis p. 518, nr.106
 chopsticks.scl                 10  Symmetrical non-octave MOS, subset of 15-tET
 choquel.scl                    12  Choquel/Barbour/Marpurg?
 chordal.scl                    40  Chordal Notes subharmonic and harmonic
@@ -878,7 +878,7 @@ ckring9.scl                    13  Double-tie circular mirroring with common piv
 clampitt_phi.scl                7  David Clampitt, phi+1 mod 3phi+2, from "Pairwise Well-Formed Scales", 1997
 classr.scl                     12  Marvel projection to the 5-limit of class
 claudi-enigma.scl              15  Claudi Meneghin's 11-limit JI Enigma theme scale
-clicquot.scl                   12  François-Henri Clicquot, modified meantone (1789)
+clicquot.scl                   12  FranÃ§ois-Henri Clicquot, modified meantone (1789)
 clipper100.scl                 17  Clipper(100/99), 2.3.5.11, POTE tuning
 clipper1029.scl                 7  clipper(1029/1024), 2.3.7, POTE tuning
 clipper105.scl                 15  Clipper(105/104), 2.3.5.7.13, POTE tuning
@@ -928,7 +928,7 @@ coleman11.scl                  12  Jim Coleman's XI piano temperament. TL 16 Mar
 coleman16.scl                  12  Balanced 16 from Jim Coleman Sr. (2001)
 coleman4.scl                   12  Coleman IV from Jim Coleman Sr.
 coll7.scl                       7  Seven note Collatz cycle scale, -17 starting point
-collangettes.scl               24  d'Erlanger vol.5, p. 23. Père Maurice Collangettes, 24 tone Arabic system
+collangettes.scl               24  d'Erlanger vol.5, p. 23. PÃ¨re Maurice Collangettes, 24 tone Arabic system
 collapsar.scl                  12  An 11-limit patent val superwakalix
 colonna1.scl                   12  Colonna's irregular Just Intonation no. 1 (1618)
 colonna2.scl                   12  Colonna's irregular Just Intonation no. 2 (1618)
@@ -963,7 +963,7 @@ corners13.scl                  41  Quadratic Corners 13-limit, John Chalmers (19
 corners7.scl                   19  Quadratic Corners 7-limit, John Chalmers (1996)
 corrette.scl                   12  Corrette temperament, modified 1/4-comma meantone
 corrette2.scl                  12  Michel Corrette, modified meantone temperament (1753)
-corrette3.scl                  12  Corrette's monochord (1753), also Marpurg 4, Yamaha Pure Minor and by Etienne Loulié (1696)
+corrette3.scl                  12  Corrette's monochord (1753), also Marpurg 4, Yamaha Pure Minor and by Etienne LouliÃ© (1696)
 cotoneum12.scl                 12  Cotoneum[12] in 217-tET tuning
 cotoneum17.scl                 17  Cotoneum[17] in 217-tET tuning
 cotoneum7.scl                   7  Cotoneum[7] in 217-tET tuning
@@ -1011,10 +1011,10 @@ cycle19.scl                    19  19-note lesfip scale, 9-limit, 10 cents toler
 dakota-quintannidene.scl       12  Scott Dakota, Quintannidene, EFG/rhomboidal 1*3*3*3*(14/11)*(14/11). 2058/2057 Nebula microtempered, creating 14:17:21 connection
 dakota-sun19.scl               19  Scott Dakota, Sun-19 tuning
 dakota-sun24.scl               24  Scott Dakota, Sun-24 tuning
-danielou5_53.scl               53  Daniélou's Harmonic Division in 5-limit, symmetrized
-danielou_53.scl                53  Daniélou's Harmonic Division of the Octave, see p. 153
+danielou5_53.scl               53  DaniÃ©lou's Harmonic Division in 5-limit, symmetrized
+danielou_53.scl                53  DaniÃ©lou's Harmonic Division of the Octave, see p. 153
 dan_seman.scl                  12  Semantix-Semantic, 5-limit, common tones to Semantic-36 and Semantix-36 with different A
-dan_semantic.scl               35  The Semantic Scale, from Alain Daniélou: "Sémantique Musicale" (1967)
+dan_semantic.scl               35  The Semantic Scale, from Alain DaniÃ©lou: "SÃ©mantique Musicale" (1967)
 dan_semantix.scl               36  Jacques Dudon, Semantix-36, 27/25 generator
 darreg.scl                     19  This set of 19 ratios in 5-limit JI is for his megalyra family
 darreg_ennea.scl                9  Ivor Darreg's Mixed Enneatonic, a mixture of chromatic and enharmonic
@@ -1194,7 +1194,7 @@ diminished.scl                 20  Diminished temperament, g=94.134357 period=30
 dimteta.scl                     7  A heptatonic form on the 9/7
 dimtetb.scl                     5  A pentatonic form on the 9/7
 dint.scl                       41  Breed reduction of 43 note scale of all tetrads sharing interval with 7-limit diamond
-divine9.scl                    12  Gert Kramer´s Divine 9 tuning, 5-limit with one 7-limit interval (2011), 1/1=253.125 Hz
+divine9.scl                    12  Gert KramerÂ´s Divine 9 tuning, 5-limit with one 7-limit interval (2011), 1/1=253.125 Hz
 div_fifth1.scl                  5  Divided Fifth #1, From Schlesinger, see Chapter 8, p. 160
 div_fifth2.scl                  5  Divided Fifth #2, From Schlesinger, see Chapter 8, p. 160
 div_fifth3.scl                  5  Divided Fifth #3, From Schlesinger, see Chapter 8, p. 160
@@ -1224,7 +1224,7 @@ dorian_pis.scl                 15  Diatonic Perfect Immutable System in the Dori
 dorian_schl.scl                12  Schlesinger's Dorian Piano Tuning (Sub 22)
 dorian_tri1.scl                 7  Schlesinger's Dorian Harmonia in the first trichromatic genus
 dorian_tri2.scl                 7  Schlesinger's Dorian Harmonia in the second trichromatic genus
-doty_14.scl                    14  David Doty and Dale Soules, 7-limit just tuning of Other Music´s American gamelan
+doty_14.scl                    14  David Doty and Dale Soules, 7-limit just tuning of Other MusicÂ´s American gamelan
 doublediadie.scl               23  13-limit 8 cents tolerance
 douwes.scl                     12  Claas Douwes recommendation of 24/23 and 15/14 steps for clavichord (1699)
 dowland_12.scl                 12  subset of Dowland's lute tuning, lowest octave
@@ -1333,7 +1333,7 @@ dudon_meso-iph7.scl             7  Neutral diatonic variation based on two Iph f
 dudon_michemine.scl            12  Triple equal-beating of all minor triads  meantone sequence
 dudon_mohajira.scl              7  Dudon's Mohajira, neutral diatonic. g^5-g^4=1/2
 dudon_mohajira117.scl           7  Jacques Dudon Mohajira, 1/1 vol.2 no.1, p. 11, with 3/2 (117:78)
-dudon_mohajira_r.scl            7  Jacques Dudon, JI Mohajira, Lumières audibles
+dudon_mohajira_r.scl            7  Jacques Dudon, JI Mohajira, LumiÃ¨res audibles
 dudon_moha_baya.scl             7  Mohajira + Bayati (Dudon) 3 + 4 + 3 Mohajira and 3 + 3 + 4 Bayati tetrachords
 dudon_mougi.scl                12  Tsigan-style raga, based on the  19/16 minor third -c properties
 dudon_mounos.scl               12  Mounos extended fifths -c sequence, quasi-septimal minor diatonic scale
@@ -1362,7 +1362,7 @@ dudon_rebab.scl                12  Gazelle, x^5 = 8x^4 - 32,  -c series + comma 
 dudon_s-n-buzurg.scl           12  Decaphonic system inspired by medieval Persian mode Buzurg (Safi al-Din)
 dudon_saba-c.scl               12  Differentially coherent version of Maqam Saba
 dudon_sapaan.scl               12  7 tones from a sequence of Sapaan very low fifths (in theory 680.015678 c.)
-dudon_saqqara.scl              12  Scale of a ney flute (n¡ 69815) from ancient Egypt found in Saqqara
+dudon_saqqara.scl              12  Scale of a ney flute (nÂ¡ 69815) from ancient Egypt found in Saqqara
 dudon_satara.scl               12  Rajasthani double flute drone-c tuning amusement
 dudon_saung_gauk.scl           12  Typical diatonic heptaphone played on the saung gauk (burmese harp)
 dudon_segah.scl                12  Dastgah Segah, JI interpretation
@@ -1717,7 +1717,7 @@ flattone12.scl                 12  Flattone[12] in 13-limit POTE tuning
 flavel.scl                     12  Bill Flavel's just tuning, mode of Ellis's Just Harmonium. Tuning List 06-05-98
 flippery9.scl                   9  A 9-note flippery scale
 flute-s.scl                     7  Observed tuning of Flauta salmantina de tres agujeros
-foerner.scl                    12  Christian Förner equal beating well temperament (Altenburg table 1738) (interpretation Reinhard/Maciak)
+foerner.scl                    12  Christian FÃ¶rner equal beating well temperament (Altenburg table 1738) (interpretation Reinhard/Maciak)
 fogliano.scl                   14  Fogliano's Monochord with D-/D and Bb-/Bb
 fogliano1.scl                  12  Fogliano's Monochord no.1, Musica theorica (1529). Fokker block 81/80 128/125
 fogliano2.scl                  12  Fogliano's Monochord no.2
@@ -1746,7 +1746,7 @@ fokker_31.scl                  31  Fokker's 31-tone just system
 fokker_31a.scl                 31  Fokker's 31-tone first alternate septimal tuning
 fokker_31b.scl                 31  Fokker's 31-tone second alternate septimal tuning
 fokker_31c.scl                 31  Fokker's 31-tone periodicity block of 81/80 & 2109375/2097152 = semicomma
-fokker_31d.scl                 31  Fokker's 31-tone periodicity block of 81/80 & Würschmidt's comma
+fokker_31d.scl                 31  Fokker's 31-tone periodicity block of 81/80 & WÃ¼rschmidt's comma
 fokker_31d2.scl                31  Reduced version of fokker_31d by Prooijen expressibility
 fokker_41.scl                  41  Fokker's 7-limit supracomma per.bl. 10976/10935 & 225/224 & 496125/262144
 fokker_41a.scl                 41  Fokker's 41-tone periodicity block of schisma & 34171875/33554432
@@ -1761,7 +1761,7 @@ fokker_sr2.scl                 22  Fokker's complementary 7-limit sruti scale, K
 fokker_sra.scl                 22  Two-step approximation 9-13 to Fokker's 7-limit sruti scale
 fokker_uv.scl                  70  Table of Unison Vectors, Microsons and Minisons, from article KNAW, 1969
 foote.scl                      12  Ed Foote, piano temperament. TL 9 Jun 1999, almost equal to Coleman
-foote2.scl                     12  Ed Foote´s temperament with 1/6, 1/8 and 1/12 Pyth comma fractions
+foote2.scl                     12  Ed FooteÂ´s temperament with 1/6, 1/8 and 1/12 Pyth comma fractions
 forster.scl                    32  Cris Forster's Chrysalis tuning, XH 7+8
 fortuna11.scl                  12  11-limit scale from Clem Fortuna
 fortuna_a1.scl                 12  Clem Fortuna, Arabic mode of 24-tET, try C or G major, superset of Basandida, trivalent
@@ -1816,7 +1816,7 @@ gann_suntune.scl               30  Kyle Gann, tuning for Sun Dance / Battle of t
 gann_super.scl                 22  Kyle Gann, scale from Superparticular Woman (1992), 1/1=G
 gann_things.scl                24  Kyle Gann, scale from How Miraculous Things Happen, 1/1=A
 gann_wolfe.scl                579  Kyle Gann from Anatomy of an Octave, edited by Kristina Wolfe (2015)
-garcia.scl                     29  Linear 29-tone scale by José L. Garcia (1988) 15/13-52/45 alternating
+garcia.scl                     29  Linear 29-tone scale by JosÃ© L. Garcia (1988) 15/13-52/45 alternating
 garibaldi17.scl                17  Garibaldi[17] in 94-tET tuning
 garibaldi24opt.scl             24  13-limit lesfip optimization, 5 cent tolerance
 genggong.scl                    5  Genggong polos scale, harmonics 5-9
@@ -1833,14 +1833,14 @@ gizmo14-ji_transversal.scl     14  Possible JI transversal of gizmo14.scl or giz
 gizmo14-pote.scl               14  Gizmo in Parapyth POTE, three ~4:6:7:9:11:13 hexads on 1/1, 9/8, 3/2
 gizmo14.scl                    14  Parapyth set, three ~4:6:7:9:11:13 hexads on 1/1, 9/8, 3/2 (MET-24 version)
 glacial6.scl                    6  Glacial[6] 2.9.5.11.13 subgroup MOS in 13\84 tuning
-gluck.scl                      12  Thomas Glück Bach temperament
+gluck.scl                      12  Thomas GlÃ¼ck Bach temperament
 glummamarvwoo.scl              12  Marvel woo version of glumma = reca1b2
 godmeankeeflat1.scl            19  Godzilla-meantone-keemun-flattone wakalix
 godmeankeeflat3.scl            19  Godzilla-meantone-keemun-flattone wakalix
 goebel.scl                     12  Joseph Goebel quasi equal temperament (1967)
 golden_5.scl                    5  Golden pentatonic
 gorgo-pelog.scl                 7  Pelog-like subset of gorgo[9]
-gothel.scl                     12  Christian Friedrich Göthel organ temperament (19th cent.) See Peter Vier, 1990, p.105
+gothel.scl                     12  Christian Friedrich GÃ¶thel organ temperament (19th cent.) See Peter Vier, 1990, p.105
 gradus10.scl                   27  Intervals > 1 with Gradus = 10
 gradus10m.scl                  92  Intervals > 1 with Gradus <= 10
 gradus3.scl                     2  Intervals > 1 with Gradus = 3
@@ -1865,18 +1865,18 @@ grady_mirror-meta-slendro17.scl
                                17  17-tone slendro generated from 'fifth' based recurrent series by Kraig Grady
 grady_mirror_meta_slendro12.scl
                                12  12-tone slendro generated from 'fifth' based recurrent series by Kraig Grady
-graf-sorge.scl                 12  Gräf-Sorge organ temperament, 1/6 P
+graf-sorge.scl                 12  GrÃ¤f-Sorge organ temperament, 1/6 P
 grammateus.scl                 12  H. Grammateus (Heinrich Schreiber) (1518). B-F# and Bb-F 1/2 P. Also Marpurg nr.6 and Baron von Wiese and Maria Renold
 graupner.scl                   12  Johann Gottlieb Graupner's temperament (1819)
-groenewald.scl                 12  Jürgen Grönewald, new meantone temperament (2001)
-groenewald_21.scl              21  Jürgen Grönewald, just tuning (2000)
-groenewald_bach.scl            12  Jürgen Grönewald, simplified Bach temperament, Ars Organi vol.57 no.1, March 2009, p.39
+groenewald.scl                 12  JÃ¼rgen GrÃ¶newald, new meantone temperament (2001)
+groenewald_21.scl              21  JÃ¼rgen GrÃ¶newald, just tuning (2000)
+groenewald_bach.scl            12  JÃ¼rgen GrÃ¶newald, simplified Bach temperament, Ars Organi vol.57 no.1, March 2009, p.39
 groven.scl                     36  Eivind Groven's 36-tone scale with 1/8-schisma temp. fifths and 5/4 (1948)
 groven_ji.scl                  36  Untempered version of Groven's 36-tone scale
 guanyin22.scl                  22  Guanyin[22] {176/175, 540/539} hobbit in 111-tET
 guanyintet5.scl                 5  Guanyintet[5] 2.5.7/3.11/3 subgroup MOS in 70\311 tuning
 guiron77.scl                   77  Guiron[77] (118&159 temperament) in 159-tET
-gunkali.scl                     7  Indian mode Gunkali, see Daniélou: Intr. to the Stud. of Mus. Scales, p.175
+gunkali.scl                     7  Indian mode Gunkali, see DaniÃ©lou: Intr. to the Stud. of Mus. Scales, p.175
 gyaling.scl                     6  Tibetan Buddhist Gyaling tones measured from CD "The Diamond Path", Ligon 2002
 h10_27.scl                     10  10-tET harmonic approximation, fundamental=27
 h12_24.scl                     12  12-tET harmonic approximation, fundamental=24
@@ -1894,9 +1894,9 @@ hamilton_jc2.scl               12  EH gamut, diatonic notes on white and drops 1
 hammond.scl                    13  Hammond organ pitch wheel ratios, 1/1=320 Hz. Do "del 0" to get 12-tone scale
 hammond12.scl                  12  Hammond organ scale, 1/1=277.0731707 Hz, A=440, see hammond.scl for the ratios
 handblue.scl                   12  "Handy Blues" of Pitch Palette, 7-limit
-handel.scl                     12  Well temperament according to Georg Friedrich Händel's rules (c. 1780)
-handel2.scl                    12  Another "Händel" temperament, C. di Veroli
-hanfling-bumler.scl            12  The Hänfling/Bümler equal temperament from Mattheson, June 1722, corrected
+handel.scl                     12  Well temperament according to Georg Friedrich HÃ¤ndel's rules (c. 1780)
+handel2.scl                    12  Another "HÃ¤ndel" temperament, C. di Veroli
+hanfling-bumler.scl            12  The HÃ¤nfling/BÃ¼mler equal temperament from Mattheson, June 1722, corrected
 hanson_19.scl                  19  JI version of Hanson's 19 out of 53-tET scale
 harm-doreninv1.scl              7  1st Inverted Schlesinger's Enharmonic Dorian Harmonia
 harm-dorinv1.scl                7  1st Inverted Schlesinger's Chromatic Dorian Harmonia
@@ -1908,7 +1908,7 @@ harm10.scl                     10  Harmonics 10 to 20
 harm12.scl                     12  Harmonics 12 to 24
 harm12s.scl                    11  Harmonics 1 to 12 and subharmonics mixed
 harm12_2.scl                   12  Harmonics 12 to 24, mode 9
-harm14.scl                     14  Harmonics 14 to 28, Tessaradecatonic Harmonium, José Pereira de Sampaio (1903)
+harm14.scl                     14  Harmonics 14 to 28, Tessaradecatonic Harmonium, JosÃ© Pereira de Sampaio (1903)
 harm15.scl                     15  Harmonics 15 to 30
 harm15a.scl                    12  Twelve out of harmonics 15 to 30
 harm16.scl                     16  Harmonics 16 to 32, Tom Stone's Guitar Scale
@@ -1984,7 +1984,7 @@ harrison_bill.scl               6  Lou Harrison, "Music for Bill and Me" (1966) 
 harrison_cinna.scl             12  Lou Harrison, "Incidental Music for Corneille's Cinna" (1955-56) 1/1=C
 harrison_diat.scl               7  From Lou Harrison, a soft diatonic
 harrison_handel.scl             7  Lou Harrison, "In Honor of the Divine Mr. Handel" (1978-2002) for guitar
-harrison_kyai.scl               7  Lou Harrison´s Kyai Udan Arum, pelog just gamelan tuning
+harrison_kyai.scl               7  Lou HarrisonÂ´s Kyai Udan Arum, pelog just gamelan tuning
 harrison_mid.scl                7  Lou Harrison mid mode
 harrison_mid2.scl               7  Lou Harrison mid mode 2
 harrison_min.scl                5  Lou Harrison, symmetrical pentatonic with minor thirds. Per. block 16/15, 27/25
@@ -2010,7 +2010,7 @@ hemienn82.scl                  72  Hemiennealimmal-72 in 612-tET tuning (strictl
 hemifamcyc.scl                 14  Hemifamity cycle of thirds scale, nearest to proper
 hemifamity27.scl               27  (3/2)^9 * (10/9)^3 hemifamity tempered
 hemimute31.scl                 31  Mutant Hemithirds[31]
-hemiwuer24.scl                 24  Hemiwürschmidt[24] in 229-tET tuning.
+hemiwuer24.scl                 24  HemiwÃ¼rschmidt[24] in 229-tET tuning.
 hemiwuerschmidt19trans37.scl   19  Hemiwuerschmidt[19] symmetric 2.3.7 transversal
 hemiwuerschmidt25trans37.scl   25  Hemiwuerschmidt[25] symmetric 2.3.7 transversal
 hemiwuerschmidt31trans37.scl   31  Hemiwuerschmidt[31] symmetric 2.3.7 transversal
@@ -2288,9 +2288,9 @@ janke6.scl                     12  Reiner Janke, Temperatur VI
 janke7.scl                     12  Reiner Janke, Temperatur VII
 jemblung1.scl                   5  Scale of bamboo gamelan jemblung from Kalijering, slendro-like. 1/1=590 Hz
 jemblung2.scl                   5  Bamboo gamelan jemblung at Royal Batavia Society. 1/1=504 Hz
-jioct12.scl                    12  12-tone JI version of Messiaen's octatonic scale, Erlich & Parízek
-jira1.scl                      12  Martin Jira, ´closed´ temperament (2000)
-jira2.scl                      12  Martin Jira, ´open´ temperament (2000)
+jioct12.scl                    12  12-tone JI version of Messiaen's octatonic scale, Erlich & ParÃ­zek
+jira1.scl                      12  Martin Jira, Â´closedÂ´ temperament (2000)
+jira2.scl                      12  Martin Jira, Â´openÂ´ temperament (2000)
 ji_10coh.scl                   10  Differentially coherent 10-tone scale with subharmonic 48
 ji_10coh2.scl                  10  Other diff. coherent 10-tone scale with subharmonic 30
 ji_10i4.scl                    10  7-limit scale with mean variety four
@@ -2438,7 +2438,7 @@ knot.scl                       24  Smallest knot in cubic lattice, American Scie
 koepf_36.scl                   36  Siegfried Koepf, 36-tone subset of 48-tone scale (1991)
 koepf_48.scl                   48  Siegfried Koepf, 48-tone scale (1991)
 kolinski.scl                   12  Mieczyslaw Kolinski's 7th root of 3/2 (1959), also invented by Augusto Novaro and Serge Cordier (1975)
-konig.scl                      12  In 1997 observed temperament of pipes in Niederehe/Eifel by Balthaser König (1715)
+konig.scl                      12  In 1997 observed temperament of pipes in Niederehe/Eifel by Balthaser KÃ¶nig (1715)
 kora1.scl                       7  Kora tuning Tomora Ba, also called Silaba, 1/1=F, R. King
 kora2.scl                       7  Kora tuning Tomora Mesengo, also called Tomora, 1/1=F, R. King
 kora3.scl                       7  Kora tuning Hardino, 1/1=F, R. King
@@ -2706,7 +2706,7 @@ marion10.scl                   25  Marion's 7-limit Scale # 10
 marion15.scl                   24  Marion's 7-limit Scale # 15
 marissing.scl                  12  Peter van Marissing, just scale, Mens en Melodie, 1979
 marius-berlin.scl              12  Jean Marius harpsichord tuning (1715), Musikinstrumenten-Museum Berlin
-marius-paris.scl               12  Jean Marius harpsichord tuning (c. 1700), Musée d'Instruments Paris
+marius-paris.scl               12  Jean Marius harpsichord tuning (c. 1700), MusÃ©e d'Instruments Paris
 marpurg-1.scl                  12  Other temperament by Marpurg, 3 fifths 1/3 Pyth. comma flat
 marpurg-a.scl                  12  Marpurg's temperament A, 1/12 and 1/6 Pyth. comma
 marpurg-b.scl                  12  Marpurg's temperament B, 1/12 and 1/6 Pyth. comma
@@ -2727,7 +2727,7 @@ marpurg-t5.scl                 12  Marpurg's temperament nr.5, 2 tempered fifths
 marpurg-t7.scl                 12  Marpurg's temperament nr.7, 3 tempered fifths
 marpurg-t8.scl                 12  Marpurg's temperament nr.8, 4 tempered fifths
 marpurg-t9.scl                 12  Marpurg's temperament nr.9, 4 tempered fifths
-marpurg.scl                    12  Marpurg, Versuch über die musikalische Temperatur (1776), p. 153
+marpurg.scl                    12  Marpurg, Versuch Ã¼ber die musikalische Temperatur (1776), p. 153
 marpurg1.scl                   12  Marpurg's Monochord no.1 (1776)
 marpurg2.scl                   12  Marpurg 2 (1776), French 18th century
 marpurg3.scl                   12  Marpurg 3
@@ -2818,7 +2818,7 @@ mclaren_rath1.scl              12  McLaren Rat H1
 mclaren_rath2.scl              12  McLaren Rat H2
 mean10.scl                     12  3/10-comma meantone scale
 mean11.scl                     12  3/11-comma meantone scale. A.J. Ellis no. 10
-mean11ls_19.scl                19  Least squares appr. to 3/2, 5/4, 7/6, 15/14 and 11/8, Petr Parízek
+mean11ls_19.scl                19  Least squares appr. to 3/2, 5/4, 7/6, 15/14 and 11/8, Petr ParÃ­zek
 mean13.scl                     12  3/13-comma meantone scale
 mean14.scl                     12  3/14-comma meantone scale (Giordano Riccati 1, 1762), see Dominique Devie (1990)
 mean14a.scl                    12  fifth of sqrt(5/2)-1 octave "recursive" meantone, Paul Hahn
@@ -2916,7 +2916,7 @@ meanquar_19.scl                19  19 of 1/4-comma meantone scale
 meanquar_27.scl                27  27 of 1/4-comma meantone scale
 meanquar_31.scl                31  31 of 1/4-comma meantone scale
 meanreverse.scl                12  Reverse meantone 1/4 82/81-comma tempered
-meansabat.scl                  12  1/9-schisma meantone scale of Eduard Sábat-Garibaldi
+meansabat.scl                  12  1/9-schisma meantone scale of Eduard SÃ¡bat-Garibaldi
 meansabat_53.scl               53  53-tone 1/9-schisma meantone scale
 meanschis.scl                  12  1/8-schisma temperament, Helmholtz
 meanschis7.scl                 12  1/7-schisma linear temperament
@@ -2957,7 +2957,7 @@ meanwoo12.scl                  12  [5/4 7] eigenmonzo meantone, Eb to G# gamut
 meister-p12.scl                12  Temperament with 1/6 and 1/12 P comma, W.Th. Meister, p. 117
 meister-s4.scl                 12  Temperament with 1/4 comma, W.Th. Meister, p. 120
 meister-s5.scl                 12  Temperament with 1/5 comma, W.Th. Meister, p. 121
-meister-synt.scl               12  Halved syntonic comma's, Wolfgang Theodor Meister, Die Orgelstimmung in Süddeutschland, 1991, p. 117
+meister-synt.scl               12  Halved syntonic comma's, Wolfgang Theodor Meister, Die Orgelstimmung in SÃ¼ddeutschland, 1991, p. 117
 meister-t.scl                  12  A temperament, W.Th. Meister, p. 35-36
 melog.scl                       5  pelog melog, Sunda
 mercadier.scl                  12  Mercadier's well-temperament (1777), 1/12 and 1/6 Pyth. comma
@@ -2965,17 +2965,17 @@ mercadier2.scl                 12  Jean-Baptiste Mercadier de Belesta (1776), 2/
 mercator.scl                   19  19 out of 53-tET, see Mandelbaum p. 331
 mercury_sand.scl                7  Mercury Sand, 7-limit JI heptatonic MOS by Andrew Heathwaite (2018)
 merrick.scl                    12  A. Merrick's melodically tuned equal temperament (1811)
-mersen-ban.scl                 18  For keyboard designs of Mersenne (1635) & Ban (1639), 10 black and extra D. Traité, p. 44-45
+mersen-ban.scl                 18  For keyboard designs of Mersenne (1635) & Ban (1639), 10 black and extra D. TraitÃ©, p. 44-45
 mersenmt1.scl                  12  Mersenne's Improved Meantone 1
 mersenmt2.scl                  12  Mersenne's Improved Meantone 2
 mersenne-t.scl                 12  Marin Mersenne, equal temp with just 5/4 (1636)
-mersenne_26.scl                26  26-note choice system of Mersenne, Traité de l'orgue, 1635, p. 46-48
+mersenne_26.scl                26  26-note choice system of Mersenne, TraitÃ© de l'orgue, 1635, p. 46-48
 mersenne_31.scl                31  31-note choice system of Mersenne, Harmonie universelle (1636)
 mersen_l1.scl                  12  Mersenne lute 1
 mersen_l2.scl                  12  Mersenne lute 2
-mersen_s1.scl                  12  Mersenne spinet 1, Traité de l'orgue, 1635, p. 43
-mersen_s2.scl                  12  Mersenne spinet 2, Traité de l'orgue, 1635, p. 42
-mersen_s3.scl                  16  Mersenne spinet 3, Traité de l'orgue, 1635, p. 43
+mersen_s1.scl                  12  Mersenne spinet 1, TraitÃ© de l'orgue, 1635, p. 43
+mersen_s2.scl                  12  Mersenne spinet 2, TraitÃ© de l'orgue, 1635, p. 42
+mersen_s3.scl                  16  Mersenne spinet 3, TraitÃ© de l'orgue, 1635, p. 43
 met24-byz-1st_pl-trans.scl      7  1st plagal Byzantine Liturgical Mode transposed (E-E, final A or ~4/3 step)
 met24-byz-2nd_pl.scl            7  2nd plagal Byzantine Liturgical or Palace Mode with upper Diatonic tetra
 met24-byz-3rd-ditonic.scl       7  3rd Byzantine Liturgical mode, ditonic, ~12.5-12.5-5 parts of 72
@@ -3009,7 +3009,7 @@ meyer_29.scl                   29  Max Meyer, see David Doty, 1/1, August 1992, 
 mgr12.scl                      12  Modular Golomb Ruler of 12 segments, length 133
 mgr14.scl                      14  Modular Golomb Ruler of 14 segments, length 183
 mgr18.scl                      18  Modular Golomb Ruler of 18 segments, length 307
-michelin.scl                   12  François Michelin, organ temperament. Used for Grinda-Orgel from 1690 in Villefranche-sur-Mer at restauration in 1982
+michelin.scl                   12  FranÃ§ois Michelin, organ temperament. Used for Grinda-Orgel from 1690 in Villefranche-sur-Mer at restauration in 1982
 mid_enh1.scl                    7  Mid-Mode1 Enharmonic, permutation of Archytas's with the  5/4 lying medially
 mid_enh2.scl                    7  Permutation of Archytas' Enharmonic with the 5/4 medially and 28/27 first
 miller7.scl                    12  Herman Miller, 7-limit JI. mode of parizek_ji1
@@ -3151,7 +3151,7 @@ mystic-r.scl                    5  Skriabin's mystic chord, op. 60 rationalised
 mystic.scl                      5  Skriabin's mystic chord, op. 60
 nakika12.scl                   12  Nakika[12] (100/99&245/242) hobbit, 41-tET tuning
 namo17.scl                     17  Namo[17] 2.3.11.13 subgroup MOS in 128\437 tuning
-narushima-vex.scl              21  To accommodate the 21 different spellings of notes in Satie’s score
+narushima-vex.scl              21  To accommodate the 21 different spellings of notes in SatieÂ’s score
 nassarre.scl                   12  Pablo Nassarre's Equal Semitones (c.1720)
 nassarre2.scl                  12  Pablo Nassarre organ temperament (c.1720). See Devie (1990) p.218
 nassau.scl                     12  Temperament of the Silbermann organ in Evangelische Kirche in Nassau. See Andreas Hahn, 2006, p.104
@@ -3176,14 +3176,14 @@ neidhardt-f9.scl               12  Neidhardt's fifth-circle no. 9, 1/12 and 1/6 
 neidhardt-s1.scl               12  Neidhardt's sample temperament no. 1, 1/1, -1/1 Pyth. comma (1732)
 neidhardt-s2.scl               12  Neidhardt's sample temperament no. 2, 1/12, 1/6 and 1/4 Pyth. comma (1732)
 neidhardt-s3.scl               12  Neidhardt's sample temperament no. 3, 1/12, 1/6 and 1/4 Pyth. comma (1732)
-neidhardt-t1.scl               12  Neidhardt's third-circle no. 1, 1/12, 1/6 and 1/4 Pyth. comma (1732) 'Für das Dorf'
+neidhardt-t1.scl               12  Neidhardt's third-circle no. 1, 1/12, 1/6 and 1/4 Pyth. comma (1732) 'FÃ¼r das Dorf'
 neidhardt-t2.scl               12  Neidhardt's third-circle no. 2, 1/12, 1/6 and 1/4 Pyth. comma (1732) 'kleine Stadt'
 neidhardt-t3.scl               12  Neidhardt's third-circle no. 3, 1/12 and 1/6 Pyth. comma
 neidhardt-t4.scl               12  Neidhardt's third-circle no. 4, 1/12 and 1/6 Pyth. comma
 neidhardt-t5.scl               12  Neidhardt's third-circle no. 5, 1/12 and 1/6 Pyth. comma
 neidhardt1.scl                 12  Neidhardt I temperament (1724). Also Trost 3
 neidhardt2.scl                 12  Neidhardt II temperament (1724). Also Tobias Heinrich Gottfried Trost 2 (c.1736)
-neidhardt3.scl                 12  Neidhardt III temperament (1724) 'große Stadt'
+neidhardt3.scl                 12  Neidhardt III temperament (1724) 'groÃŸe Stadt'
 neidhardt4.scl                 12  Neidhardt IV temperament (1724), equal temperament
 neidhardtn.scl                 12  Johann Georg Neidhardt's temperament (1732), alt. 1/6 & 0 P. Also Marpurg nr. 10
 nestoria17.scl                 17  Nestoria[17], 2.3.5.19 subgroup scale in 171-tET tuning
@@ -3195,7 +3195,7 @@ newton_15_out_of_53.scl        15  from drawing: Cambridge Univ.Lib.,Ms.Add.4000
 newts.scl                      41  11-limit scale with boatload of neutral thirds
 new_enh.scl                     7  New Enharmonic
 new_enh2.scl                    7  New Enharmonic permuted
-niederbobritzsch.scl           12  Göthel organ, Niederbobritzsch, 19th cent. from Klaus Walter, 1988
+niederbobritzsch.scl           12  GÃ¶thel organ, Niederbobritzsch, 19th cent. from Klaus Walter, 1988
 nikriz pentachord 13-limit.scl  4  Nikriz pentachord 32:36:39:45:48
 nikriz pentachord 29-limit.scl  4  Nikriz pentachord 24:27:29:34:36
 nikriz pentachord 67-limit.scl  4  Nikriz pentachord 48:54:58:67:72
@@ -3257,8 +3257,8 @@ ogr8.scl                        8  Optimal Golomb Ruler of 8 segments, length 44
 ogr9.scl                        9  Optimal Golomb Ruler of 9 segments, length 55
 oktone.scl                      8  202-tET tempering of octone (15/14 60/49 5/4 10/7 3/2 12/7 7/4 2)
 oldani.scl                     12  5-limit JI scale by Norbert L. Oldani (1987), Interval 5(3), p.10-11
-oljare.scl                     12  Mats Öljare, scale for "Tampere" (2001)
-oljare17.scl                    8  Mats Öljare, scale for "Fafner" (2001), MOS in 17-tET, Sentinel[8]
+oljare.scl                     12  Mats Ã–ljare, scale for "Tampere" (2001)
+oljare17.scl                    8  Mats Ã–ljare, scale for "Fafner" (2001), MOS in 17-tET, Sentinel[8]
 olympos.scl                     5  Scale of ancient Greek flutist Olympos, 6th century BC as reported by Partch
 omaha.scl                      12  Omaha 2.3.11 just scale
 omahat.scl                     12  243/242 tempered Omaha 2.3.11 scale, 380-tET tuning
@@ -3305,7 +3305,7 @@ pajmagorpor22_225.scl          22  Rank four 225/224 tempering of pajmagorpor22,
 pajmagorpor22_385.scl          22  Rank four 385/384 tempering of pajmagorpor22, POTE tuning
 palace.scl                     12  Palace mode+
 palace2.scl                     7  Byzantine Palace mode, 17-limit
-panflute1.scl                  17  Observed pan flute tuning, 1/1=294 Hz. From Fluids in Music: The Mathematics of Pan’s Flutes, 2019
+panflute1.scl                  17  Observed pan flute tuning, 1/1=294 Hz. From Fluids in Music: The Mathematics of PanÂ’s Flutes, 2019
 panpipe1.scl                    6  Palina panpipe of Solomon Islands, 1/1=f+45c, from Ocora CD Guadalcanal
 panpipe2.scl                   15  Lalave panpipe of Solomon Islands. 1/1=f'+47c.
 panpipe3.scl                   15  Tenaho panpipe of Solomon Islands. 1/1=f'+67c.
@@ -3369,14 +3369,14 @@ paulsmagic.scl                 22  Circulating Magic[22] lesfip, 9-limit, 12 cen
 pel-pelog.scl                   7  Pelog-like pelogic[7]
 pelog1.scl                      7  Gamelan Saih pitu from Ksatria, Den Pasar (South Bali). 1/1=312.5 Hz
 pelog10.scl                     7  Balinese saih 7 scale, Krobokan. 1/1=275 Hz. McPhee, Music in Bali, 1966
-pelog11.scl                     7  Balinese saih pitu, gamelan luang, banjar Sèséh. 1/1=276 Hz. McPhee, 1966
+pelog11.scl                     7  Balinese saih pitu, gamelan luang, banjar SÃ¨sÃ©h. 1/1=276 Hz. McPhee, 1966
 pelog12.scl                     7  Balinese saih pitu, gamelan Semar Pegulingan, Tampak Gangsai, 1/1=310, McPhee
 pelog13.scl                     7  Balinese saih pitu, gamelan Semar Pegulingan, Klungkung, 1/1=325. McPhee, 1966
 pelog14.scl                     7  Balinese saih pitu, suling gambuh, Tabanan, 1/1=211 Hz, McPhee, 1966
 pelog15.scl                     7  Balinese saih pitu, suling gambuh, Batuan, 1/1=202 Hz. McPhee, 1966
 pelog16.scl                     5  Balinese 5-tone pelog, "Tembung chenik", 1/1=273 Hz, McPhee, 1966
-pelog17.scl                     5  Balinese 5-tone pelog, "Selisir Sunarèn", 1/1=310 Hz, McPhee, 1966
-pelog18.scl                     5  Balinese 5-tone pelog, "Selisir pelègongan", 1/1=305 Hz, McPhee, 1966
+pelog17.scl                     5  Balinese 5-tone pelog, "Selisir SunarÃ¨n", 1/1=310 Hz, McPhee, 1966
+pelog18.scl                     5  Balinese 5-tone pelog, "Selisir pelÃ¨gongan", 1/1=305 Hz, McPhee, 1966
 pelog19.scl                     5  Balinese 5-tone pelog, "Demung", 1/1=362 Hz, McPhee, 1966
 pelog2.scl                      7  Bamboo gambang from Batu lulan (South Bali). 1/1=315 Hz
 pelog20.scl                     4  Balinese 4-tone pelog, gamelan bebonang, Sayan village, 1/1=290 Hz, McPhee, 1966
@@ -3397,7 +3397,7 @@ pelog_c.scl                     7  Pelog, average class C. Kunst 1949
 pelog_he.scl                    7  Observed Javanese Pelog scale, Helmholtz/Ellis p. 518, nr.96
 pelog_jc.scl                    5  John Chalmers' Pelog, on keys C# E F# A B c#, like Olympos' Enharmonic on 4/3. Also hirajoshi2
 pelog_laras.scl                 7  Lou Harrison, gamelan "Si Betty"
-pelog_mal.scl                   5  Malaysian Pelog, Pierre Genest: Différentes gammes encore en usage
+pelog_mal.scl                   5  Malaysian Pelog, Pierre Genest: DiffÃ©rentes gammes encore en usage
 pelog_me1.scl                   7  Gamelan Kyahi Kanyut Mesem pelog (Mangku Nagaran). 1/1=295 Hz
 pelog_me2.scl                   7  Gamelan Kyahi Bermara (kraton Jogja). 1/1=290 Hz
 pelog_me3.scl                   7  Gamelan Kyahi Pangasih (kraton Solo). 1/1=286 Hz
@@ -3839,7 +3839,7 @@ pyclesfip17.scl                17  9-limit 15 cent lesfip derived from Pycnic[17
 pygmie.scl                      5  Pygmie scale
 pykett_2019.scl                12  Colin Pykett's 2019 well-temperament (2019)
 pykett_dorset.scl              12  Colin Pykett, a Dorset temperament (2002)
-pykett_handel.scl              12  Colin Pykett, a 'Händel' temperament (2016)
+pykett_handel.scl              12  Colin Pykett, a 'HÃ¤ndel' temperament (2016)
 pyle.scl                       12  Howard Willet Pyle quasi equal temperament
 pyramid.scl                    12  This scale may also be called the "Wedding Cake"
 pyramid_down.scl               12  Upside-Down Wedding Cake (divorce cake)
@@ -3870,7 +3870,7 @@ rain123.scl                    12  Raintree scale tuned to 123-tET
 rain159.scl                    12  Raintree scale tuned to 159-tET
 raintree.scl                   12  Raintree Goldbach 12-tone 5-limit JI tuning, TL 14-3-2007
 raintree2.scl                  12  Raintree Goldbach Celestial tuning, TL 15-10-2009
-rameau-flat.scl                12  Rameau Si bémol, see Pierre-Yves Asselin in "Musique et temperament"
+rameau-flat.scl                12  Rameau Si bÃ©mol, see Pierre-Yves Asselin in "Musique et temperament"
 rameau-french.scl              12  Standard French temperament, Rameau version (1726), C. di Veroli, 2002
 rameau-gall.scl                12  Rameau's temperament, after Gallimard (1st solution)
 rameau-gall2.scl               12  Rameau's temperament, after Gallimard (2nd solution)
@@ -3881,7 +3881,7 @@ rameau-minor.scl                9  Rameau's systeme diatonique mineur on E. Asc.
 rameau-nouv.scl                12  Temperament by Rameau in Nouveau Systeme (1726)
 rameau-riche.scl               12  Rameau's temperament, after Gaspard Riche (1832). Mode of corrette.scl
 rameau-righ.scl                12  Rameau's temperament, after Benjamin Righetti (2016)
-rameau-schro.scl               12  Rameau's temperament, after Robert Schöter (2002)
+rameau-schro.scl               12  Rameau's temperament, after Robert SchÃ¶ter (2002)
 rameau-sharp.scl               12  Rameau dieses, see Pierre-Yves Asselin in "Musique et temperament"
 rameau.scl                     12  Rameau's modified meantone temperament (1725)
 ramis.scl                      12  Monochord of Ramos de Pareja (Ramis de Pareia), Musica practica (1482). 81/80 & 2048/2025. Switched on Bach. Meantone-srutal-helm
@@ -3960,7 +3960,7 @@ rodan41opt.scl                 41  Rodan[41] 13-limit 6 cents optimized
 rodgers_chevyshake.scl         10  Scale used in Prent Rodgers' The Stick Shift Chevy Shake
 rogers_7.scl                    7  Prent Rogers, scale of Serenade for Alto Flute nr.10
 rogers_wind.scl                12  Prent Rogers, scale for Dry Hole Canyon for Woodwind Quintet
-romieu.scl                     12  Romieu's Monochord, Mémoire théorique & pratique (1758)
+romieu.scl                     12  Romieu's Monochord, MÃ©moire thÃ©orique & pratique (1758)
 romieu_inv.scl                 12  Romieu inverted, Pure (just) C minor in Wilkinson: Tuning In
 rosati_21.scl                  21  Dante Rosati, JI guitar tuning
 rosati_21a.scl                 21  Alternative version of rosati_21 with more tetrads
@@ -3988,7 +3988,7 @@ saba pentachord 23-limit a+b.scl
 saba pentachord 23-limit a.scl  4  Saba pentachord  42:46:50:54:63
 saba pentachord 23-limit b.scl  4  Saba pentachord  42:46:50:55:63
 saba pentachord 31-limit.scl    5  Saba pentachord  96:105:114:124:126:144
-saba_sup.scl                    8  Superparticular version of maqam Sabâ
+saba_sup.scl                    8  Superparticular version of maqam SabÃ¢
 sabbagh.scl                     7  Tawfiq al-Sabbagh, a composer from Syria. 1/1=G
 sabbagh2.scl                   24  Tawfiq al-Sabbagh, Arabic master musical scale in 53-tET (1954)
 safiyuddin_actual_buzurg.scl    8  Actual Buzurg by Safi al-Din Urmavi in Risala al-Sharafiyyah according to Dr. Oz.
@@ -3997,7 +3997,7 @@ safiyuddin_actual_rahavi.scl    7  Actual Rahavi on 16/13 by Safi al-Din Urmavi 
 safiyuddin_actual_zirefkend_octavedgenus.scl
                                 8  Actual Zirefkend by Safi al-Din Urmavi in Risala al-Sharafiyyah according to Dr. Oz.
 safiyuddin_udfretratios.scl    21  Two conjunct tetrachords in an octave from Ud fret ratios by Safi al-Din Urmavi
-safi_arabic.scl                17  Arabic 17-tone Pythagorean mode, Safiyuddîn Al-Urmawî (Safi al-Din)
+safi_arabic.scl                17  Arabic 17-tone Pythagorean mode, SafiyuddÃ®n Al-UrmawÃ® (Safi al-Din)
 safi_arabic_s.scl              17  Schismatically altered Arabic 17-tone Pythagorean mode
 safi_buzurk.scl                 5  Buzurk genus by Safi al-Din Urmavi
 safi_diat.scl                   7  Safi al-Din's Diatonic, also the strong form of Avicenna's 8/7 diatonic
@@ -4025,10 +4025,10 @@ santur1.scl                     8  Persian santur tuning. 1/1=E
 santur2.scl                     8  Persian santur tuning. 1/1=E
 sanza.scl                       8  African N'Gundi Sanza (idiophone; set of lamellas, thumb-plucked)
 sanza2.scl                      7  African Baduma Sanza (idiophone, like mbira)
-sauveur.scl                    12  Sauveur's tempered system of the harpsichord. Traité (1697)
-sauveur2.scl                   12  Sauveur's Système Chromatique des Musiciens (Mémoires 1701), 12 out of 55.
+sauveur.scl                    12  Sauveur's tempered system of the harpsichord. TraitÃ© (1697)
+sauveur2.scl                   12  Sauveur's SystÃ¨me Chromatique des Musiciens (MÃ©moires 1701), 12 out of 55.
 sauveur_17.scl                 17  Sauveur's oriental system, aft. Kitab al-adwar (Bagdad 1294) by Safi al-Din
-sauveur_ji.scl                 12  Application des sons harmoniques à la composition des jeux d'orgues (1702) (PB 81/80 & 128/125)
+sauveur_ji.scl                 12  Application des sons harmoniques Ã  la composition des jeux d'orgues (1702) (PB 81/80 & 128/125)
 savas_bardiat.scl               7  Savas's Byzantine Liturgical mode, 8 + 12 + 10 parts
 savas_barenh.scl                7  Savas's Byzantine Liturgical mode, 8 + 16 + 6 parts
 savas_chrom.scl                 7  Savas's Chromatic, Byzantine Liturgical mode, 8 + 14 + 8 parts
@@ -4061,14 +4061,14 @@ schlick-wolf.scl               12  Schlick's temperament reconstructed by Albrec
 schlick2.scl                   12  Another reconstructed Schlick's modified meantone (Poletti?)
 schlick3.scl                   12  Possible well-tempered interpretation of 1511 tuning, Margo Schulter
 schlick3a.scl                  12  Variation on Schlick (1511), all 5ths within 7c of pure, Margo Schulter
-schneegass1.scl                12  Cyriacus Schneegaß (1590), meantone, 1st method: rational approximation
-schneegass2.scl                12  Cyriacus Schneegaß (1590), meantone, 2nd method: geometric approximation
-schneegass3.scl                12  Cyriacus Schneegaß (1590), meantone, 3rd method: numeric approximation
+schneegass1.scl                12  Cyriacus SchneegaÃŸ (1590), meantone, 1st method: rational approximation
+schneegass2.scl                12  Cyriacus SchneegaÃŸ (1590), meantone, 2nd method: geometric approximation
+schneegass3.scl                12  Cyriacus SchneegaÃŸ (1590), meantone, 3rd method: numeric approximation
 schneider_log.scl              12  Robert Schneider, scale of log(4) .. log(16), 1/1=264Hz
 scholz.scl                      8  Simple Tune #1 Carter Scholz
 scholz_epi.scl                 40  Carter Scholz, Epimore
-schroeter.scl                  12  Christoph Gottlieb Schröter, approximation of ET by the first order difference series 1 2 2 2 2 2 2 2 3 3 3 3. Also from Zarlino
-schroeter2.scl                 12  Christoph Gottlieb Schröter, approximation of ET by a 2nd order difference series, Leipzig (1747)
+schroeter.scl                  12  Christoph Gottlieb SchrÃ¶ter, approximation of ET by the first order difference series 1 2 2 2 2 2 2 2 3 3 3 3. Also from Zarlino
+schroeter2.scl                 12  Christoph Gottlieb SchrÃ¶ter, approximation of ET by a 2nd order difference series, Leipzig (1747)
 schulter_10.scl                10  Margo Schulter, 13-limit tuning, TL 14-11-2007
 schulter_12.scl                12  Margo Schulter's 5-limit JI virt. ET, "scintilla of Artusi" tempered, TL 22-08-98
 schulter_14_13-12.scl          12  Temperament with just 14/13 apotome, close to Pepper Noble Fifth
@@ -4195,7 +4195,7 @@ segah-ferahnak pentachord 19-limit.scl
                                 5  Segah-Ferahnak pentachord 14:15:17:19:20:21
 segah2.scl                      7  Iranian mode Segah from C
 segah99.scl                     7  segah_rat in 99-tET tempering
-segah_rat.scl                   7  Rationalized Arabic Segâh
+segah_rat.scl                   7  Rationalized Arabic SegÃ¢h
 seidel_12.scl                  12  Dave Seidel, Harmonicious 12-tone scale, TL 31-01-2009
 seidel_32.scl                  32  Dave Seidel, Base 9:7:4 Symmetry, scale for Passacaglia and Fugue State (2005)
 seikilos.scl                   12  Seikilos Tuning
@@ -4306,11 +4306,11 @@ silbermann1a.scl               12  Gottfried Silbermann after Lottermoser 1 and 
 silbermann1b.scl               12  Gottfried Silbermann after Arthur Eger 1
 silbermann2.scl                12  Gottfried Silbermann's temperament nr. 2, 1/6 Pyth. comma meantone according to Sorge (1748)
 silbermann2a.scl               12  Modified Silbermann's temperament nr. 2, also used by Hinsz in Midwolda
-silbermann3.scl                12  Gottfried Silbermann's temperament, reconstruction by Frank-Harald Greß
-silbermann4.scl                12  Gottfried Silbermann's later temperament, reconstruction by Frank-Harald Greß
+silbermann3.scl                12  Gottfried Silbermann's temperament, reconstruction by Frank-Harald GreÃŸ
+silbermann4.scl                12  Gottfried Silbermann's later temperament, reconstruction by Frank-Harald GreÃŸ
 silbermann5.scl                12  Gottfried Silbermann's temperament, reconstruction by Kristian Wegscheider 1 (1986) p.58
 silbermann6.scl                12  Gottfried Silbermann's temperament, reconstruction by Kristian Wegscheider 2 (1986)
-silbermann7.scl                12  Gottfried Silbermann's temperament, reconstruction by Jürgen Kühl 2 (1982)
+silbermann7.scl                12  Gottfried Silbermann's temperament, reconstruction by JÃ¼rgen KÃ¼hl 2 (1982)
 silbermann8.scl                12  Gottfried Silbermann's temperament, reconstruction by James Barbour (1966)
 silbermann9.scl                12  Gottfried Silbermann's temperament, reconstruction by Bernhard Billeter (2010)
 silver.scl                     12  Equal beating chromatic scale, A.L.Leigh Silver JASA 29/4, 476-481, 1957
@@ -4377,7 +4377,7 @@ slendro_ang.scl                 5  Gamelan Angklung Sangsit, North Bali. 1/1=294
 slendro_ang2.scl                5  Angklung from Banyuwangi. 1/1=298 Hz. J. Kunst, Music in Java, p.198
 slendro_av.scl                  5  Average of 30 measured slendro gamelans, W. Surjodiningrat et al., 1993.
 slendro_av2.scl                 5  Average of 28 measured slendro gamelans, Wim van Zanten, The equidistant heptatonic scale of the asena in Malawi, 1980
-slendro_dudon.scl               5  Dudon's Slendro from "Fleurs de lumière" (1995)
+slendro_dudon.scl               5  Dudon's Slendro from "Fleurs de lumiÃ¨re" (1995)
 slendro_gam1.scl                5  Slendro gambang Kyahi Madumurti, Wim van Zanten, The equidistant heptatonic scale of the asena in Malawi, 1980
 slendro_gam2.scl                5  Slendro gambang Kyahi Kanjutmesem, Wim van Zanten, The equidistant heptatonic scale of the asena in Malawi, 1980
 slendro_gum.scl                 5  Gumbeng, bamboo idiochord from Banyumas. 1/1=440 Hz
@@ -4454,7 +4454,7 @@ smithgw_hahn15.scl             15  Hahn-reduced 15 note scale
 smithgw_hahn16.scl             16  Hahn-reduced 16 note scale
 smithgw_hahn19.scl             19  Hahn-reduced 19 note scale
 smithgw_hahn22.scl             22  Hahn-reduced 22 note scale
-smithgw_hemw.scl               41  Hemiwürschmidt TOP tempering of 43 notes of septimal ball 3
+smithgw_hemw.scl               41  HemiwÃ¼rschmidt TOP tempering of 43 notes of septimal ball 3
 smithgw_indianred.scl          22  32805/32768 Hahn-reduced
 smithgw_klv.scl                15  Variant of kleismic with 9/7 thirds, g=316.492
 smithgw_majraj1.scl            12  Majraj 648/625 6561/6250 scale
@@ -4563,7 +4563,7 @@ sorge2.scl                     12  Georg Andreas Sorge temperament II (1744)
 sorge3.scl                     12  Georg Andreas Sorge temperament III (1744) and Carl Eitz and John Ellis Bach temperament interpretation
 sorge4.scl                     12  Georg Andreas Sorge, well temperament, (1756, 1758)
 sorog9.scl                      5  9-tET Sorog
-spanyi.scl                     12  Miklós Spányi Bach temperament (2007)
+spanyi.scl                     12  MiklÃ³s SpÃ¡nyi Bach temperament (2007)
 sparschuh-2009well885Hz.scl    12  Andreas Sparschuh, modern pianos with an fusing 3rd: C-E ~+0.654...c "sharp" above 5/4
 sparschuh-442widefrench5th-a.scl
                                12  Margo Schulter's proposed revision with A at 885/529
@@ -4676,7 +4676,7 @@ sternbrocot4.scl               16  Level 4 of the Stern-Brocot tree
 stevin.scl                     12  Simon Stevin, monochord division of 10000 parts for 12-tET (1585)
 stopper.scl                    19  Bernard Stopper, piano tuning with 19th root of 3 (1988)
 storbeck.scl                   21  Ulrich Storbeck 7-limit JI scale (2001)
-strahle.scl                    12  Daniel P. Stråhle's Geometrical scale (1743)
+strahle.scl                    12  Daniel P. StrÃ¥hle's Geometrical scale (1743)
 studwacko.scl                  41  Tweaked miracle41s.scl, Gene Ward Smith, 2010
 sub24-12.scl                   12  Subharmonics 24-12. Phrygian Harmonia-Aliquot 24 (flute tuning)
 sub40.scl                      12  Subharmonics 40-20
@@ -4738,7 +4738,7 @@ tagawa_55.scl                  55  Rick Tagawa, 17-limit diamond subset with goo
 tamil.scl                      22  Possible Tamil sruti scale. Alternative 11th sruti is 45/32 or 64/45
 tamil_vi.scl                   12  Vilarippalai scale in Tamil music, Vidyasankar Sundaresan. Mode of ramis.scl
 tamil_vi2.scl                  12  Vilarippalai scale with 1024/729 tritone
-tanaka.scl                     26  26-note choice system of Shohé Tanaka, Studien i.G.d. reinen Stimmung (1890)
+tanaka.scl                     26  26-note choice system of ShohÃ© Tanaka, Studien i.G.d. reinen Stimmung (1890)
 tanbur.scl                     12  Sub-40 tanbur scale
 tansur.scl                     12  William Tans'ur temperament from A New Musical Grammar (1746) p. 73
 tapek-ribbon.scl               12  Eq-diff ribbon extension of Superpyth, made of two Tapek sequences
@@ -4848,7 +4848,7 @@ temp31h8.scl                   31  Cycle of 31 fifths tempered by 1/8 Harrison's
 temp31h9.scl                   31  Cycle of 31 fifths tempered by 1/9 Harrison's comma
 temp31ms.scl                   31  Cycle of 31 5th root of 5/4 chromatic semitones
 temp31mt.scl                   31  Cycle of 31 square root of 5/4 meantones
-temp31rb1.scl                  31  Meta-Würschmidt cycle of 31 thirds, 3/2 beats equal 5/4
+temp31rb1.scl                  31  Meta-WÃ¼rschmidt cycle of 31 thirds, 3/2 beats equal 5/4
 temp31rb1a.scl                 31  Cycle of 31 thirds, 5/4 beats equal 7/4
 temp31rb2.scl                  31  Cycle of 31 thirds, 3/2 beats twice 5/4
 temp31rb2a.scl                 31  Cycle of 31 thirds, 5/4 beats twice 3/2
@@ -5044,14 +5044,14 @@ turkish.scl                     7  Turkish, 5-limit from Palmer on a Turkish mus
 turkish_17.scl                 17  Turkish THM folk music gamut in 53-tET
 turkish_24.scl                 24  Ra'uf Yekta, 24-tone Pythagorean Turkish Theoretical Gamut, 1/1=D (perde yegah) at 294 Hz
 turkish_24a.scl                24  Turkish gamut with schismatic simplifications
-turkish_29.scl                 29  Gültekin Oransay, 29-tone Turkish gamut, 1/1=D
+turkish_29.scl                 29  GÃ¼ltekin Oransay, 29-tone Turkish gamut, 1/1=D
 turkish_29a.scl                29  Combined gamut of KTM and THM in 53-tET
-turkish_41.scl                 41  Abdülkadir Töre and M. Ekrem Karadeniz theoretical Turkish gamut
+turkish_41.scl                 41  AbdÃ¼lkadir TÃ¶re and M. Ekrem Karadeniz theoretical Turkish gamut
 turkish_41a.scl                41  Karadeniz's theoretical Turkish gamut, quantized to subset of 53-tET
 turkish_aeu.scl                24  Arel-Ezgi-Uzdilek (AEU) 24 tone theoretical system
 turkish_aeu41.scl              41  Arel-Ezgi-Uzdilek extended to 41-quasi equal
 turkish_awjara_on_b.scl        12  Turkish Awjara with perde iraq on B by Dr. Oz.
-turkish_bagl.scl               17  Ratios of the 17 frets on the neck of "Baglama" ("saz") according to Yalçýn Tura
+turkish_bagl.scl               17  Ratios of the 17 frets on the neck of "Baglama" ("saz") according to YalÃ§Ã½n Tura
 turkish_bestenigar_on_b.scl    12  Turkish Bestenigar with perde iraq on B by Dr. Oz.
 turkish_buselik_on_d.scl       10  Turkish Buselik with perde buselik on E by Dr. Oz.
 turkish_huseyni_and_neva.scl   10  Turkish Huseyni and Neva (also Tahir, Muhayyer, Gerdaniye, simple Isfahan & Gulizar) with perde dugah on D by Dr. Oz.
@@ -5136,13 +5136,13 @@ vallotti-broekaert.scl         12  Version of Tartini-Vallotti with equal beatin
 vallotti.scl                   12  Vallotti & Young scale (Vallotti version) also known as Tartini-Vallotti (1754)
 vallotti2.scl                  12  Francesco Antonio Vallotti temperament, 1/6-comma
 vallotti3.scl                  12  modified Vallotti temperament, 1/6 P
-varella.scl                    12  Domingos de São José Varella organ tuning, Porto (1806). See Devie (1990) p.220
+varella.scl                    12  Domingos de SÃ£o JosÃ© Varella organ tuning, Porto (1806). See Devie (1990) p.220
 vavoom.scl                     75  Vavoom temperament, g=111.875426, 5-limit
 velde_9.scl                     9  Marcel de Velde, TL 09-07-2010
 velde_ji.scl                   12  Marcel de Velde, 12 tone JI scale (2011)
 venice.scl                     12  Variant on the vallotti2.scl temperament. See Devie, 1990, p.442
 venkataramana.scl              33  Praveen Venkataramana, 7-limit diamond 1 3 5 7 9 15 21 35, TL 24-03-2009, 1/1=390 Hz
-veroli-ord.scl                 12  Tempérament ordinaire after Veroli, W.Th. Meister, 1991, p. 126
+veroli-ord.scl                 12  TempÃ©rament ordinaire after Veroli, W.Th. Meister, 1991, p. 126
 veroli.scl                     12  Claudio di Veroli's well temperament (1978)
 veroli1.scl                    12  Claudio di Veroli Bach temperament I (2009)
 veroli2.scl                    12  Claudio di Veroli Bach temperament II (2009)
@@ -5185,9 +5185,9 @@ vogelh_fisk.scl                12  Modified meantone tuning of Fisk organ in Mem
 vogelh_hamburg.scl             12  Harald Vogel's temperament for the Schnitger organ in St. Jakobi, Hamburg (1993)
 vogelh_hmean.scl               12  Harald Vogel hybrid meantone (1984)
 vogelh_mean.scl                12  Harald Vogel, modified meantone 1, Mitteilung des Autors
-vogelh_stade.scl               12  Harald Vogel, modified meantone for the St. Cosmae orgel in Stade and choir organ in Münster Bern
+vogelh_stade.scl               12  Harald Vogel, modified meantone for the St. Cosmae orgel in Stade and choir organ in MÃ¼nster Bern
 vogel_21.scl                   21  Martin Vogel's 21-tone Archytas system, see Divisions of the tetrachord
-vogler.scl                     12  Vogler´s characteristic temperament, Handbuch zur Harmonielehre (1802)
+vogler.scl                     12  VoglerÂ´s characteristic temperament, Handbuch zur Harmonielehre (1802)
 volans.scl                      7  African scale according to Kevin Volans 1/1=G
 vong.scl                        7  Vong Co Dan Tranh scale, Vietnam
 vries19-72.scl                 18  Leo de Vries 19/72 Through-Transposing-Tonality 18 tone scale
@@ -5228,7 +5228,7 @@ werck3_ebm.scl                 12  Harmonic equal-beating meta-version of Werckm
 werck3_mim.scl                 12  Werckmeister III, 10 cents 5-limit mimafip scale
 werck3_mod.scl                 12  Modified Werckmeister III with B between E and F#, Nijsse (1997), organ Soest
 werck3_mod2.scl                12  Modified Werckmeister III, Orgelbau Rohlf (2015)
-werck3_turck.scl               12  Daniel Gottlob Türck's 1806 Werckmeister III compiled by Andreas Sparschuh, TL 28-05-2010
+werck3_turck.scl               12  Daniel Gottlob TÃ¼rck's 1806 Werckmeister III compiled by Andreas Sparschuh, TL 28-05-2010
 werck4.scl                     12  Andreas Werckmeister's temperament IV (1691)
 werck5.scl                     12  Andreas Werckmeister's temperament V
 werck6.scl                     12  Andreas Werckmeister's "septenarius" tuning VI, D is probably erroneous
@@ -5320,12 +5320,12 @@ wonder36.scl                   31  Wonder Scale, 36-tET version
 wookie58.scl                   58  Wookie[58], a 58&113 temperament MOS, in 171-tET tuning
 woz31.scl                      31  2401/2400 norm reduced 31
 wronski.scl                    12  Wronski's scale, from Jocelyn Godwin, "Music and the Occult", p. 105.
-wurschmidt.scl                 12  Würschmidt's normalised 12-tone system
-wurschmidt1.scl                19  Würschmidt-1 19-tone scale
-wurschmidt2.scl                19  Würschmidt-2 19-tone scale
-wurschmidt_31.scl              31  Würschmidt's 31-tone system
-wurschmidt_31a.scl             31  Würschmidt's 31-tone system with alternative tritone
-wurschmidt_53.scl              53  Würschmidt's 53-tone system
+wurschmidt.scl                 12  WÃ¼rschmidt's normalised 12-tone system
+wurschmidt1.scl                19  WÃ¼rschmidt-1 19-tone scale
+wurschmidt2.scl                19  WÃ¼rschmidt-2 19-tone scale
+wurschmidt_31.scl              31  WÃ¼rschmidt's 31-tone system
+wurschmidt_31a.scl             31  WÃ¼rschmidt's 31-tone system with alternative tritone
+wurschmidt_53.scl              53  WÃ¼rschmidt's 53-tone system
 wyschnegradsky.scl              5  Ivan Wyschnegradsky, scale for "Cosmos" op. 28 for 4 pianos (1938/40 rev. 1945)
 x-wing2.scl                     6  One of the maximal harmony 5-limit 6b val epimorphic scales
 xenakis_chrom.scl               7  Xenakis's Byzantine Liturgical mode, 5 + 19 + 6 parts
@@ -5369,7 +5369,7 @@ yarman_23etx2.scl              46  Two 23-tone equal scales 23.694 cents apart b
 yarman_29etx2.scl              58  Two 29-tone equal scales 13.9 cents apart by Ozan Yarman
 yarman_buselik.scl              8  8-tone Buselik by Ozan Yarman
 yarman_hijaz.scl                8  8-tone Hijaz by Ozan Yarman
-yarman_hijazkar.scl            10  Hijazkar/Kürdili Hijazkar mixed by Ozan Yarman
+yarman_hijazkar.scl            10  Hijazkar/KÃ¼rdili Hijazkar mixed by Ozan Yarman
 yarman_karjighar.scl            9  9-tone Karjighar by Ozan Yarman
 yarman_mahur.scl               10  Mahur by Ozan Yarman
 yarman_nihavend.scl             8  8-tone Nihavend by Ozan Yarman
